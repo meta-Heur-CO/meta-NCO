@@ -1,0 +1,34 @@
+{
+  "gpu_id": "0",
+    "output_dir_name": "outputs",
+  "root_dir_name": "SIZE",
+"expt_name": "MULTI_10_20_30_50",
+  "node_dim": 2,
+  "voc_nodes_in": 2,
+  "voc_nodes_out": 2,
+  "voc_edges_in": 3,
+  "voc_edges_out": 2,
+
+  "beam_size": 1,
+
+  "hidden_dim": 300,
+  "num_layers": 30,
+  "mlp_layers": 3,
+  "aggregation": "mean",
+
+  "max_epochs": 1500,
+  "val_every": 5,
+  "test_every": 10,
+
+  "batch_size": 20,
+  "batches_per_epoch": 1,
+  "accumulation_steps": 1,
+
+  "learning_rate": 0.001,
+  "decay_rate": 1.01,
+  
+  "num_meta_steps": 500,
+
+  "fine_tuning_data_size_percentage": 10
+}
+
