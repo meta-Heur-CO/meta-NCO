@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Meta-Learning of Neural Combinatorial Optimisation Heuristics
 
 This repository contains the code associated with the paper *Meta-Learning of Neural Combinatorial Optimisation Heuristics*, submitted at ICML 2021. The project consists of 2 folders:
@@ -9,4 +8,3 @@ This repository contains the code associated with the paper *Meta-Learning of Ne
 Each folder contains the code as well as the documentation to run the experiments.
 =======
 # meta-NCO
->>>>>>> 7f29d71d7e6b89ec25d72e51d5675d384860a08e
