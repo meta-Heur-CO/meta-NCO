@@ -6,5 +6,4 @@ This repository contains the code associated with the paper *Meta-Learning of Ne
 2. GCN_Model : meta-learning of a GCN-based model for NCO
 
 Each folder contains the code as well as the documentation to run the experiments.
-=======
-# meta-NCO
+
